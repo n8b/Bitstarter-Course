@@ -160,7 +160,7 @@
         <div class="span12">
           <!-- Special typography from Bootstrap for lead paragraph. -->
           <!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
-          <p class="lead">Because life really is a dream, sometimes we just forget.</p>
+          <p class="lead">Don't Be a Loser. Get Awesome. Vivir!</p>
         </div>
       </div>
       <div class="row-fluid pitch">
@@ -286,7 +286,7 @@
         </div>
       </div>
 	  <div class="row-fluid section2" id="#contact">
-        <div class="span5 offset1 copy copy-right">
+        <div class="span12 offset1 copy copy-right">
           
 		  <p>
             If you'd like to be part of this once in a lifetime opportunity. Email me @ nathan.a.barth@gmail.com or click the link below
@@ -294,7 +294,7 @@
         </div>
 		     <div class="row-fluid faq">
           <div class="span10 offset1">
-            <h3>FAQ</h3>
+            <h3>Contact</h3>
             <div class="accordion" id="accordion2">
               <div class="accordion-group">
                 <div class="accordion-heading">
@@ -324,12 +324,12 @@ else
   Email: <input name='email' type='text'><br>
   Subject: <input name='subject' type='text'><br>
   Message:<br>
-  <textarea name='message' rows='15' cols='40'>
+  <textarea name='message' width="75%" height="130px">
   </textarea><br>
   <input type='submit'>
   </form>";
   }
-?>					
+  ?>					
                   </div>
                 </div>
               </div>
